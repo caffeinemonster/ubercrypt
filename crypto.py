@@ -1,6 +1,5 @@
 #Licenced under the GNU General Public License. (V3)
 #Designed and coded by caffeinemonster
-#Copyright (2013) J. Green
 #please read the licence.txt file for more information
 import os
 import binascii
